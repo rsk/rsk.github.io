@@ -4,19 +4,17 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    {% if 'tags' in post %}
-    <p>Tags: {{ post[0] }}</p>
-    {% endif %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <h1>{{ post | to_nice_json }}</a></h1>
-
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% if post.tags %}
+      <a href="{{ post.tags }}" class="read-more">{{ post.tags }}</a>
+      {% endif %}
     </article>
   {% endfor %}
 </div>
