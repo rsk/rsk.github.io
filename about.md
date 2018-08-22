@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poetry
-permalink: /poetry/
+permalink: /about/
 ---
 
 Some information about you!
