@@ -2,10 +2,14 @@
 layout: post
 title: this is a post
 tags:
-  - poetry
+  - diary
 ---
 
-Let us assume that this is poetry
+Let us assume that this is diary
+
+
+
+
 In the context of spaceflight, a satellite is an object that has been intentionally placed into orbit. These objects are called artificial satellites to distinguish them from natural satellites such as Earth's Moon.
 
 On 4 October 1957 the Soviet Union launched the world's first artificial satellite, Sputnik 1. Since then, about 8,100 satellites from more than 40 countries have been launched. According to a 2018 estimate, some 4,900 remain in orbit, of those about 1,900 were operational; while the rest have lived out their useful lives and become space debris.[1] Approximately 500 operational satellites are in low-Earth orbit, 50 are in medium-Earth orbit (at 20,000 km), and the rest are in geostationary orbit (at 36,000 km).[2] A few large satellites have been launched in parts and assembled in orbit. Over a dozen space probes have been placed into orbit around other bodies and become artificial satellites to the Moon, Mercury, Venus, Mars, Jupiter, Saturn, a few asteroids,[3] a comet and the Sun.

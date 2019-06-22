@@ -4,12 +4,24 @@ title: Photography
 permalink: /photography/
 ---
 
-Some information about you!
 
-### More Information
+<div class="posts">
 
-A place to include any other types of information that you'd like to include about yourself.
+  {% for post in site.posts %}
+  {% if post.tags contains 'photography' %}
+    <article class="post">
 
-### Contact me
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-[email@domain.com](mailto:email@domain.com)
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% if post.tags %}
+      <a href="/photography" class="read-more">{{ post.tags }}</a>
+      {% endif %}
+    </article>
+  {% endif %}
+  {% endfor %}
+
+</div>

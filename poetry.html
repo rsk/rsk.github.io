@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: page
 title: Poetry
 permalink: /poetry/
 ---
 <div class="posts">
+
   {% for post in site.posts %}
-  {% if post.tags[0] == 'poetry' %}
+  {% if post.tags contains 'poetry' %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,7 +16,9 @@ permalink: /poetry/
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       {% if post.tags %}
-      <a href="{{ post.tags }}" class="read-more">{{ post.tags }}</a>
+          {% for tag in post.tags %}
+              <a href="/{{ tag }}" class="read-more">{{ tag }}</a>
+          {% endfor %}
       {% endif %}
     </article>
   {% endif %}
