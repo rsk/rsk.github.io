@@ -1,6 +1,6 @@
 ---
 layout: post
-title: this is a post
+title: yetanotherpost
 tags:
   - someothertag
 ---
