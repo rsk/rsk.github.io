@@ -5,7 +5,7 @@ permalink: /poetry/
 ---
 <div class="posts">
   {% for post in site.posts %}
-  {% if 'poetry' in post.tags %}
+  {% if post.tags[0] == 'poetry' %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
