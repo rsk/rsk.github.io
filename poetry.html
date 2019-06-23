@@ -4,8 +4,8 @@ title: Poetry
 permalink: /poetry/
 ---
 <div class="posts">
-
-  {% for post in site.posts %}
+  {% assign sorted_posts = site.posts | sort:"title" %}
+  {% for post in sorted_posts %}
   {% if post.tags contains 'poetry' %}
     <article class="post">
       <span class="posttags">{ { post.tags | tag_array } } </span>
