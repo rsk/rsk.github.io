@@ -8,6 +8,7 @@ permalink: /poetry/
   {% for post in site.posts %}
   {% if post.tags contains 'poetry' %}
     <article class="post">
+      <span class="posttags">{ { post.tags | tag_array } } </span>
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="entry">
