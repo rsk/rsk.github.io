@@ -20,6 +20,7 @@ permalink: /poetry/
               <a href="/{{ tag }}" class="read-more">{{ tag }}</a>
           {% endfor %}
       {% endif %}
+      {% include disqus.html %}
     </article>
   {% endif %}
   {% endfor %}
