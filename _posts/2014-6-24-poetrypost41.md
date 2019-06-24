@@ -1,6 +1,7 @@
 ---
 layout: post
 title: poetrypost41
+number: 41
 tags:
   - poetry
 
