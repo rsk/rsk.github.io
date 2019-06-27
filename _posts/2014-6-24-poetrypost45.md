@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost45
 number: 45
+excerpt: చేతకాదు - chethakadu
 tags:
   - poetry
 
