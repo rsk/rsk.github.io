@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost12
 number: 12
+excerpt: లెక్క-lekka
 tags:
   - poetry
 
