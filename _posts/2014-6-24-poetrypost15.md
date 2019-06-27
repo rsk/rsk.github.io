@@ -1,6 +1,7 @@
 ---
 layout: post
 title: poetrypost15
+excerpt: మరణశిఖర లోగిలి - maranasikhara logili
 number: 15
 tags:
   - poetry
