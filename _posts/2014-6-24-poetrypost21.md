@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost21
 number: 21
+excerpt: బాధ - badha
 tags:
   - poetry
 
