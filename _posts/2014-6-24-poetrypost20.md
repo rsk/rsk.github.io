@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost20
 number: 20
+excerpt: ఆధారం - aadharam
 tags:
   - poetry
 
