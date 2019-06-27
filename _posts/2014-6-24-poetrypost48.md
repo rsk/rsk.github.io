@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost48
 number: 48
+excerpt: ఇది బారతం - eedi baratam
 tags:
   - poetry
 
