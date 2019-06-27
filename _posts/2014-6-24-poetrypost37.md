@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost37
 number: 37
+excerpt: కవి-kavi
 tags:
   - poetry
 
