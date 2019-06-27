@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost3
 number: 3
+excerpt: Silence
 tags:
   - poetry
 
