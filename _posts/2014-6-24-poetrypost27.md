@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost27
 number: 27
+excerpt: అడవి-adavi
 tags:
   - poetry
 
