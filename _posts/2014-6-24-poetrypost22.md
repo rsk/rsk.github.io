@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost22
 number: 22
+excerpt: trust
 tags:
   - poetry
 
