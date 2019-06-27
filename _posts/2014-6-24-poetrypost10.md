@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost10
 number: 10
+excerpt: కొలమానాలు-kolamanalu
 tags:
   - poetry
 
