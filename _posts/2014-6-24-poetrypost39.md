@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost39
 number: 39
+excerpt: మనం-manam
 tags:
   - poetry
 
