@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost24
 number: 24
+excerpt: అందం-మందం-andam-mandam
 tags:
   - poetry
 
