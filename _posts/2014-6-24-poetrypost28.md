@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost28
 number: 28
+excerpt: వేట-veta
 tags:
   - poetry
 
