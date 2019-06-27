@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost38
 number: 38
+excerpt: ప్రయాణం లో - prayanam lo
 tags:
   - poetry
 
