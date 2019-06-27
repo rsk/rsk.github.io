@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost40
 number: 40
+excerpt: present-future
 tags:
   - poetry
 
