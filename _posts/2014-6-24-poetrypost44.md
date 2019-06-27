@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost44
 number: 44
+excerpt: తలుపులు తలపులు -talapulu-talupulu
 tags:
   - poetry
 
