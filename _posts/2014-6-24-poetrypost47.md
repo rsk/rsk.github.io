@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost47
 number: 47
+excerpt: ఆట - aata
 tags:
   - poetry
 
