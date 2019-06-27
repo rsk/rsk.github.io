@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost35
 number: 35
+excerpt: freedom
 tags:
   - poetry
 
