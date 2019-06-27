@@ -2,7 +2,7 @@
 layout: post
 title: poetrypost2
 number: 2
-prashnam vande parathparam (english)
+excerpt: prashnam vande parathparam (english)
 tags:
   - poetry
 
