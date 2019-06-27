@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost31
 number: 31
+excerpt: seeker
 tags:
   - poetry
 
