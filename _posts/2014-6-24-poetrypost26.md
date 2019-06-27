@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost26
 number: 26
+excerpt: remainder
 tags:
   - poetry
 
