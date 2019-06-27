@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost42
 number: 42
+excerpt: ఇది జీవితం - idi jevitham
 tags:
   - poetry
 
