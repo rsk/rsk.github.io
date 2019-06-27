@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost23
 number: 23
+excerpt: మనుషులు-manushulu
 tags:
   - poetry
 
