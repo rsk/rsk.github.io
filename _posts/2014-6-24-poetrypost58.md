@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost58
 number: 58
+excerpt: భయమా భక్తా ? -bhayama bhakta ?
 tags:
   - poetry
 
