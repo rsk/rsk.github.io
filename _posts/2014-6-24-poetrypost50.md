@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost50
 number: 50
+excerpt: ఎడబాటు - yedabatu
 tags:
   - poetry
 
