@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost7
 number: 7
+excerpt: ఆశ - aasa
 tags:
   - poetry
 
