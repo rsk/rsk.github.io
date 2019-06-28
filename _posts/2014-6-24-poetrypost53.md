@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost53
 number: 53
+excerpt: ఓటర్ - voter
 tags:
   - poetry
 
