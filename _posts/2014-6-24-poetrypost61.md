@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost61
 number: 61
+excerpt: మెసేజ్ మనసు - message manasu
 tags:
   - poetry
 
