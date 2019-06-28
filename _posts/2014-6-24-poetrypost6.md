@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost6
 number: 6
+excerpt: దిగాలు - digalu
 tags:
   - poetry
 
