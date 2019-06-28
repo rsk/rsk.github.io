@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost51
 number: 51
+excerpt: సంఘర్షణ - sangharshana
 tags:
   - poetry
 
