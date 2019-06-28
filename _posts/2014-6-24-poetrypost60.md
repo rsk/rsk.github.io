@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost60
 number: 60
+excerpt: అన్ని మాటలే - anni matale
 tags:
   - poetry
 
