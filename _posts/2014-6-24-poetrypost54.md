@@ -2,6 +2,7 @@
 layout: post
 title: poetrypost54
 number: 54
+excerpt: తెగిస్తే - tegiste
 tags:
   - poetry
 
