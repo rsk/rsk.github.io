@@ -5,6 +5,7 @@ excerpt: మరణశిఖర లోగిలి - maranasikhara logili
 number: 15
 tags:
   - poetry
+  - telugu
 
 ---
 

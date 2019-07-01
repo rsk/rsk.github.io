@@ -5,6 +5,7 @@ number: 14
 excerpt: ఉరుకోవాలి - urukovali
 tags:
   - poetry
+  - telugu
 
 ---
 

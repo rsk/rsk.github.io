@@ -5,6 +5,7 @@ number: 12
 excerpt: లెక్క-lekka
 tags:
   - poetry
+  - telugu
 
 ---
 

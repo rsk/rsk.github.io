@@ -5,6 +5,7 @@ number: 11
 excerpt: సుమనస్సరభాసం-sumanassarabhasam
 tags:
   - poetry
+  - telugu
 
 ---
 
