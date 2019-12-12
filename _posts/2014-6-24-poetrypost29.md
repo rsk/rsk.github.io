@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost29
+title: post29
 number: 29
 excerpt: క్రమశిక్షణ - kramasikshana
 tags:

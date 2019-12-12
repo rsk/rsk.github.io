@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost11
+title: post11
 number: 11
 excerpt: సుమనస్సరభాసం-sumanassarabhasam
 tags:

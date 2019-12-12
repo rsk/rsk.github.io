@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost39
+title: post39
 number: 39
 excerpt: మనం-manam
 tags:

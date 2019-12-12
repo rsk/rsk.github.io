@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost40
+title: post40
 number: 40
 excerpt: present-future
 tags:

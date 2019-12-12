@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost1
+title: post1
 number: 1
 excerpt: ప్రశ్నమ్ వందే పరాత్పరం -prashnam vande parathparam
 tags:

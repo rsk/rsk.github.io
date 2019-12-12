@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost2
+title: post2
 number: 2
 excerpt: prashnam vande parathparam (english)
 tags:

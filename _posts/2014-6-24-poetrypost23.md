@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost23
+title: post23
 number: 23
 excerpt: మనుషులు-manushulu
 tags:

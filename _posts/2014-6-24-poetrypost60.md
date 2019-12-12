@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost60
+title: post60
 number: 60
 excerpt: అన్ని మాటలే - anni matale
 tags:

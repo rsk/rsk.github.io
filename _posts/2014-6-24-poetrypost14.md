@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost14
+title: post14
 number: 14
 excerpt: ఉరుకోవాలి - urukovali
 tags:

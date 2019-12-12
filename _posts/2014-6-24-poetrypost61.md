@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost61
+title: post61
 number: 61
 excerpt: మెసేజ్ మనసు - message manasu
 tags:

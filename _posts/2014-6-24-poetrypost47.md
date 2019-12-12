@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost47
+title: post47
 number: 47
 excerpt: ఆట - aata
 tags:

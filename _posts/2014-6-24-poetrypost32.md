@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost32
+title: post32
 number: 32
 excerpt: repeat
 tags:

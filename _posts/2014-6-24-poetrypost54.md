@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost54
+title: post54
 number: 54
 excerpt: తెగిస్తే - tegiste
 tags:

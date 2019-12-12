@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost51
+title: post51
 number: 51
 excerpt: సంఘర్షణ - sangharshana
 tags:

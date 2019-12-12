@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost26
+title: post26
 number: 26
 excerpt: remainder
 tags:

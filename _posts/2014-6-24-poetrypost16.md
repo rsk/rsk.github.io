@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost16
+title: post16
 number: 16
 excerpt: వేగాస్ మహా నగరం - vegas maha nagaram
 tags:

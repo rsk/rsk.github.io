@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost33
+title: post33
 number: 33
 excerpt: మల్లన్న పాట - mallanna pata
 tags:

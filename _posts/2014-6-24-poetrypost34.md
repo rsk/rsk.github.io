@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost34
+title: post34
 number: 34
 excerpt: unbroken
 tags:

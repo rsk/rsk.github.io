@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost4
+title: post4
 number: 4
 excerpt: అనాలోచితలు-అనిర్వచితాలు - analochithalu anirvachitalu
 tags:

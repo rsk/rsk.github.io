@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost5
+title: post5
 number: 5
 excerpt: సమాజం - samajam
 tags:

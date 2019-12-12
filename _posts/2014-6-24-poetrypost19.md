@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost19
+title: post19
 number: 19
 excerpt: జ్ఞాపకాలు - gnapakalu
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost58
+title: post58
 number: 58
 excerpt: భయమా భక్తా ? -bhayama bhakta ?
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost28
+title: post28
 number: 28
 excerpt: వేట-veta
 tags:

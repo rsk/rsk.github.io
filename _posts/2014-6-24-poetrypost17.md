@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost17
+title: post17
 number: 17
 excerpt: చూపు-chupu
 tags:

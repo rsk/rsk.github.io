@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost12
+title: post12
 number: 12
 excerpt: లెక్క-lekka
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost53
+title: post53
 number: 53
 excerpt: ఓటర్ - voter
 tags:

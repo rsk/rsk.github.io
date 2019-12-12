@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost10
+title: post10
 number: 10
 excerpt: కొలమానాలు-kolamanalu
 tags:

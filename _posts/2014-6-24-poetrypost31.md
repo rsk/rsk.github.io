@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost31
+title: post31
 number: 31
 excerpt: seeker
 tags:

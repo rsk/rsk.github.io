@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost8
+title: post8
 number: 8
 excerpt: జీవితావసరాలు - jevithavasaralu
 tags:

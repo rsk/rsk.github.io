@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost62
+title: post62
 number: 62
 excerpt: ష్ .. ఆలోచనలు మాట్లాడుకుంటున్నాయి - shh alochanalu matladukuntunnayi
 tags:

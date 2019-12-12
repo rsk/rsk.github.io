@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost20
+title: post20
 number: 20
 excerpt: ఆధారం - aadharam
 tags:

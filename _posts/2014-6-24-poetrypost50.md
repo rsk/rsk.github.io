@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost50
+title: post50
 number: 50
 excerpt: ఎడబాటు - yedabatu
 tags:

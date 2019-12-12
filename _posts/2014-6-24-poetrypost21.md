@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost21
+title: post21
 number: 21
 excerpt: బాధ - badha
 tags:

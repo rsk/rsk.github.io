@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost43
+title: post43
 number: 43
 excerpt: me and reality
 tags:

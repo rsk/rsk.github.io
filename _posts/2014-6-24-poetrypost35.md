@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost35
+title: post35
 number: 35
 excerpt: freedom
 tags:

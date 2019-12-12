@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost46
+title: post46
 number: 46
 excerpt: నేను న జ్ఞాపకాలు - nenu na gnapakalu
 tags:

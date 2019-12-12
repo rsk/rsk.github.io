@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost6
+title: post6
 number: 6
 excerpt: దిగాలు - digalu
 tags:

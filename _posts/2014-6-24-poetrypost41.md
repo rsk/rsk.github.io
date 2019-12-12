@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost41
+title: post41
 number: 41
 excerpt: tragic
 tags:

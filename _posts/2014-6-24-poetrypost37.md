@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost37
+title: post37
 number: 37
 excerpt: కవి-kavi
 tags:

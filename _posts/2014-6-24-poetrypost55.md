@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost55
+title: post55
 number: 55
 excerpt: పారేసుకున్న పదాలు - pareskunna padalu
 tags:

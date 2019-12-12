@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost13
+title: post13
 number: 13
 excerpt: జీవితం ఖర్చు - jeevitham karchu
 tags:

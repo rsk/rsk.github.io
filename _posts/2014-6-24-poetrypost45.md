@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost45
+title: post45
 number: 45
 excerpt: చేతకాదు - chethakadu
 tags:

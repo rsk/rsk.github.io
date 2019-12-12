@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetrypost52
+title: post52
 excerpt: తప్పు ఏమో - tappu emo
 number: 52
 tags:
