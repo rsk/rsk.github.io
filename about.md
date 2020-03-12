@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Social Media handles
 
-A place to include any other types of information that you'd like to include about yourself.
+Instagram id : [@samvarankashyap](https://www.instagram.com/samvarankashyap)
+
+Twitter id: [samvarankashyap](https://twitter.com/samvarankashyap")
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[samvaran.kashyap@gmail.com](mailto:samvaran.kashyap@gmail.com)
