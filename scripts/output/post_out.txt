@@ -1,0 +1,12 @@
+---
+layout: post
+title: post67
+number: 67
+excerpt: 
+tags:
+- d
+- s
+- a
+---
+
+![_config.yml]({{ site.baseurl }}/images/dsa/)

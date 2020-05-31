@@ -1,0 +1,12 @@
+---
+layout: post
+title: post{{ latest_post_no }}
+number: {{ latest_post_no }}
+excerpt: {{ post_title }}
+tags:
+{% for i in post_tags -%}
+- {{ i }}
+{% endfor -%}
+---
+
+![_config.yml]({{ '{{ site.baseurl }}' }}/images/{{ post_category }}/{{ post_image }})
