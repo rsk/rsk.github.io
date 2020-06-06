@@ -10,6 +10,6 @@ This page is dedicated to all books I am currently reading.
 
 Updates coming soon
 
-| Bookname | language  | Status |
-| ------ | ------ |--------|
-| టెస్ట్బుక్ | తెలుగు  |--------|
+Book name | Language | Author | Status
+--- | --- | --- | ---
+Fountain head | English | Ayn Rand | reading
