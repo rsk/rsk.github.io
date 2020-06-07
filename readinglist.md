@@ -4,6 +4,24 @@ title: readinglist
 permalink: /readinglist/
 ---
 
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table#t01 {
+  width: 100%;    
+  background-color: #f1f1c1;
+}
+</style>
+
+
+
 ### Reading list
 
 This page is dedicated to all books I am currently reading.
