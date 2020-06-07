@@ -6,7 +6,8 @@ permalink: /drawings/
 
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% assign sorted_posts = site.posts | sort:"number" | reverse %}
+  {% for post in sorted_posts %}
   {% if post.tags contains 'drawings' %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
