@@ -8,8 +8,17 @@ permalink: /readinglist/
 
 This page is dedicated to all books I am currently reading.
 
-Updates coming soon
-
-Book name | Language | Author | Status
---- | --- | --- | ---
-Fountain head | English | Ayn Rand | reading
+<table style="width:100%">
+  <tr>
+    <th>Book name</th>
+    <th>Language</th> 
+    <th>Author</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Fountain head</td>
+    <td>English</td>
+    <td>Ayn Rand</td>
+    <td>Reading</td>
+  </tr>
+</table>
