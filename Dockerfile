@@ -1,4 +1,4 @@
-FROM fedora:30
+FROM fedora:36
 MAINTAINER samvaran
 
 RUN dnf -y install ruby-devel ruby git gcc\
