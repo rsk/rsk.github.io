@@ -37,7 +37,7 @@ This page is dedicated to all books I am currently reading.
     <td>Fountain head</td>
     <td>English</td>
     <td>Ayn Rand</td>
-    <td>Reading</td>
+    <td>completed</td>
   </tr>
   <tr>
     <td>పర్వ </td>
