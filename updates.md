@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This page contains updates on what is happenning 
+- 2021 july 8 13:16 pm: తెలుగు తునకలు instapage is only outlet i have in my life considering only couple of people whom i talk to.who talk to me in this whole world. 
 - 2021 july 8 12:19 pm: Going through lot of things in life all at once. started reading and byhearting bhagavadgita(7/700).
 - 2020 june 9 11:32 : ఈ రోజు చాల ఆనందం గా ఉంది. మళ్ళి తెలుగు వ్యాకరణం క్లాసెస్ మొదలు పెట్టబోతున్నాను (రేపు). ఎం.ఏ తెలుగు preparation కి. క్లాసెస్ చెప్పేది "మహతి గారు". అక్కా అని పిలవమన్నారు నన్ను. అనటానికి కొంచం కష్టంగా ఉన్ ఆప్యాయంగా అనిపించింది. 
 ఏంటో ఈ updates పేజీ డైరీ లాగా అయిపోయేటట్టు ఉంది. నిన్న హేమంత్ ఒక కథకి లైన్ చెప్పాడు అది రాయటం స్టార్ట్ చెయ్యాలి (పెళ్లి టాపిక్ మీద) దానికి ట్రేల్లో లో tracking కి కార్డు create చెయ్యాలి.  
