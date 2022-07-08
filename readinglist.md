@@ -51,4 +51,10 @@ This page is dedicated to all books I am currently reading.
     <td>యండమూరి వీరేంద్రనాథ్ </td>
     <td>completed</td>
   </tr>
+  <tr>
+    <td> కడిమి చెట్టు  </td>
+    <td>తెలుగు </td>
+    <td>విశ్వనాథ సత్యనారాయణ  </td>
+    <td>completed</td>
+  </tr>
 </table>
