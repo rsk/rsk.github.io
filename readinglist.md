@@ -45,4 +45,10 @@ This page is dedicated to all books I am currently reading.
     <td>బైరప్ప </td>
     <td>Reading</td>
   </tr>
+  <tr>
+    <td>13-14-15 </td>
+    <td>తెలుగు </td>
+    <td>యండమూరి వీరేంద్రనాథ్ </td>
+    <td>completed</td>
+  </tr>
 </table>
