@@ -63,10 +63,16 @@ This page is dedicated to all books I am currently reading.
     <td>Madaline miller  </td>
     <td> Reading </td>
   </tr>
-    <tr>
+  <tr>
     <td> Song of Achilles  </td>
     <td>English </td>
     <td>Madaline miller  </td>
+    <td> Reading </td>
+  </tr>
+  <tr>
+    <td> Almanak  </td>
+    <td>English </td>
+    <td>Naval Ravikanth  </td>
     <td> Reading </td>
   </tr>
   
