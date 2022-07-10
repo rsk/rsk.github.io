@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This page contains updates on what is happenning 
+- 2022 july 10 1:40 am: Just finished the 3rd chapter rewrite of PVPIE: Novel oh my its very distrubing to write. But some chapters should be unfiltered. Hope it remains the same in translation. 
 - 2022 july 9 11:24 am: Going downward spiral annatu anipisthundi. Unable to connect with people. I am having very bad dreams. I am sleeping a lot. Dont know where this will take me. I feel like going back to India. But cannot. leading a abandoned and stupid life.
 - 2022 july 8 13:16 pm: తెలుగు తునకలు instapage is only outlet i have in my life considering only couple of people whom i talk to.who talk to me in this whole world. 
 - 2022 july 8 12:19 pm: Going through lot of things in life all at once. started reading and byhearting bhagavadgita(7/700).
