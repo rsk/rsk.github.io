@@ -64,7 +64,7 @@ This page is dedicated to all books I am currently reading.
     <td> Reading </td>
   </tr>
     <tr>
-    <td> Song of achilees  </td>
+    <td> Song of Achilles  </td>
     <td>English </td>
     <td>Madaline miller  </td>
     <td> Reading </td>
