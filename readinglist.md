@@ -27,11 +27,31 @@ table#t01 {
 This page is dedicated to all books I am currently reading.
 
 <table style="width:100%">
+
+  
   <tr>
     <th>Book name</th>
     <th>Language</th> 
     <th>Author</th>
     <th>Status</th>
+  </tr>
+  <tr>
+    <td> Circe  </td>
+    <td>English </td>
+    <td>Madaline miller  </td>
+    <td> Reading </td>
+  </tr>
+  <tr>
+    <td> Song of Achilles  </td>
+    <td>English </td>
+    <td>Madaline miller  </td>
+    <td> Reading </td>
+  </tr>
+  <tr>
+    <td> Almanak  </td>
+    <td>English </td>
+    <td>Naval Ravikanth  </td>
+    <td> Reading </td>
   </tr>
   <tr>
     <td>Fountain head</td>
@@ -57,24 +77,7 @@ This page is dedicated to all books I am currently reading.
     <td>విశ్వనాథ సత్యనారాయణ  </td>
     <td>completed</td>
   </tr>
-  <tr>
-    <td> Circe  </td>
-    <td>English </td>
-    <td>Madaline miller  </td>
-    <td> Reading </td>
-  </tr>
-  <tr>
-    <td> Song of Achilles  </td>
-    <td>English </td>
-    <td>Madaline miller  </td>
-    <td> Reading </td>
-  </tr>
-  <tr>
-    <td> Almanak  </td>
-    <td>English </td>
-    <td>Naval Ravikanth  </td>
-    <td> Reading </td>
-  </tr>
+
   
   
 </table>
