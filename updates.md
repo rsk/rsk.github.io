@@ -6,6 +6,8 @@ permalink: /updates/
 
 
 ### This page contains updates on what is happenning 
+- 2022 july 12 15:27 pm: telugu tunakallo oka post pettanu in collaboration with another page. My god, one hell of a response. One day lo almost 70 followers increase ayyaru. Didnt know people are very much interesting the content i post.
+Here is the link: https://www.instagram.com/tv/Cf22N8gpzOL/?utm_source=ig_web_copy_link 
 - 2022 july 12 15:20 pm: work is only thing super interesting and exciting in my life. I am blessed to be at RedHat. 
 - 2022 july 10 12:00 pm: Bhagavadgita 8/700 byhearted. mummy ki bagaledu ee roju. Konni kashanalu eado la anipinchpindi. 
 - 2022 july 10 1:40 am: Just finished the 3rd chapter rewrite of PVPIE: Novel oh my its very distrubing to write. But some chapters should be unfiltered. Hope it remains the same in translation. 
