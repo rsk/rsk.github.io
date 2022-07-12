@@ -41,6 +41,12 @@ This page is dedicated to all books I am currently reading.
     <td>Madaline miller  </td>
     <td> Reading </td>
   </tr>
+   <tr>
+    <td> Chantabbayi </td>
+    <td> Telugu </td>
+    <td> Malladi venkata krishna murthy </td>
+    <td> Completed </td>
+  </tr>
   <tr>
     <td> Song of Achilles  </td>
     <td>English </td>
