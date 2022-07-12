@@ -5,7 +5,8 @@ permalink: /updates/
 ---
 
 
-### This page contains updates on what is happenning 
+### This is my public diary 
+
 - 2022 july 12 15:27 pm: telugu tunakallo oka post pettanu in collaboration with another page. My god, one hell of a response. One day lo almost 70 followers increase ayyaru. Didnt know people are very much interesting the content i post.
 Here is the link: https://www.instagram.com/tv/Cf22N8gpzOL/?utm_source=ig_web_copy_link 
 - 2022 july 12 15:20 pm: work is only thing super interesting and exciting in my life. I am blessed to be at RedHat. 
