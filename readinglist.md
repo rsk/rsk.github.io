@@ -45,7 +45,13 @@ This page is dedicated to all books I am currently reading.
     <td> Chantabbayi </td>
     <td> Telugu </td>
     <td> Malladi venkata krishna murthy </td>
-    <td> Completed </td>
+    <td> reading </td>
+  </tr>
+  <tr>
+    <td> Nadigrama rajyam </td>
+    <td> Telugu </td>
+    <td> Viswanatha satyanarayana </td>
+    <td> reading </td>
   </tr>
   <tr>
     <td> Song of Achilles  </td>
