@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This page contains updates on what is happenning 
+- 2022 july 12 15:20 pm: work is only thing super interesting and exciting in my life. I am blessed to be at RedHat. 
 - 2022 july 10 12:00 pm: Bhagavadgita 8/700 byhearted. mummy ki bagaledu ee roju. Konni kashanalu eado la anipinchpindi. 
 - 2022 july 10 1:40 am: Just finished the 3rd chapter rewrite of PVPIE: Novel oh my its very distrubing to write. But some chapters should be unfiltered. Hope it remains the same in translation. 
 - 2022 july 9 11:24 am: Going downward spiral annatu anipisthundi. Unable to connect with people. I am having very bad dreams. I am sleeping a lot. Dont know where this will take me. I feel like going back to India. But cannot. leading a abandoned and stupid life.
