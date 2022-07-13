@@ -6,8 +6,9 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 13 2:13 am: no matter how much i talk to strangers. No matter how much i am participating in activities. I unable to cope up. Sudden waves of depression osthunnayi. I don't want to let everyone know... and make them panic or castigate their opinions on me. Pointing out every mistake i have done. 
 
-- 2022 july 13 2:06 am: sudden ga daddy gurthosthunnaru. I remember ... he called me just day before he got heart attack. Antha bagane undi kada ? Bagunnav kada comfortable ea kada ? These are last words from him over call. Viber app lo hug sticker was his last message. 
+- 2022 july 13 2:06 am: sudden death ga daddy gurthosthunnaru. I remember ... he called me just day before he got heart attack. Antha bagane undi kada ? Bagunnav kada comfortable ea kada ? These are last words from him over call. Viber app lo hug sticker was his last message. 
 I couldn't be the person who he wanted me to be. Regret of not being with him in his last days. Behaved like most selffish person in whole world. 
 
 - 2022 july 13 1:39:23 am: panic attack. em cheyalo theliyatam ledu. artham kavatam ledu. Just feeling help less. just kalla nundi neellu osthunnayi enduko artham kavatam ledu. edo avthundi. life... is unbearable. Life is indespensable.... I dont know whats happening to me. 
