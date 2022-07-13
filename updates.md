@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 13 2:23 am: its funny how easy is to throw adivices at people when they are dejected. Never easy to follow them. Given i was a advice giver once. 
 - 2022 july 13 2:17 am: am holding off for now. Went to One step closer to break down. Hope it does not repeat. 
 
 - 2022 july 13 2:13 am: no matter how much i talk to strangers. No matter how much i am participating in activities. I unable to cope up. Sudden waves of depression osthunnayi. I don't want to let everyone know... and make them panic or castigate their opinions on me. Pointing out every mistake i have done. 
