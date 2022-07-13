@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 13 1:39:23 am: panic attack. em cheyalo theliyatam ledu. artham kavatam ledu. Just feeling help less. just kalla nundi neellu osthunnayi enduko artham kavatam ledu. edo avthundi. life... is unbearable. Life is indespensable.... I dont know whats happening to me. 
 
 - 2022 july 12 15:27 pm: telugu tunakallo oka post pettanu in collaboration with another page. My god, one hell of a response. One day lo almost 70 followers increase ayyaru. Didnt know people are very much interesting the content i post.
 Here is the link: https://www.instagram.com/tv/Cf22N8gpzOL/?utm_source=ig_web_copy_link 
