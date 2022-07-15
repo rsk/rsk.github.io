@@ -6,7 +6,11 @@ permalink: /updates/
 
 
 ### This is my public diary 
-- 2022 july 14 1:49 pm: Came to office almost after 2 years. Feels good. Missed out on the desk experience all these days. 
+
+- 2022 ejuly 14 8:53 pm: Meetup group. Bowling with friends and strangers its been a while. Man i suck at bowling. 
+
+- 2022 ejuly 14 1:49 pm: Came to office almost after 2 years. Feels good. Missed out on the desk experience all these days. 
+
 - 2022 july 13 2:23 am: its funny how easy is to throw adivices at people when they are dejected. Never easy to follow them. Given i was a advice giver once. 
 - 2022 july 13 2:17 am: am holding off for now. Went to One step closer to break down. Hope it does not repeat. 
 
