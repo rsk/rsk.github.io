@@ -6,7 +6,9 @@ permalink: /updates/
 
 
 ### This is my public diary 
-- 2022 july 16 10:28 pm : Evaru evariki help cheyyaleru life lo . When you are doomed to get destroyed. When you are sensitive, nobody can save you. 
+
+- 2022 july 16 10:34 pm : To attain nothinng, To attain validation. To not to hurt anyone is impossible.
+- 2022 july 16 10:33 pm : Evaru evariki help cheyyaleru life lo . When you are doomed to get destroyed. When you are sensitive, nobody can save you. 
 
 - 2022 july 16 10:28 pm : This world is too complicated to understand. Can't afford to be hurt and cant hurt anyone. Its a double sided sword. 
 Funny isnt it. Ea principles/ethics ayithe correct ga follow avvali anukuntunnano avve dati life gaduputhunna anipisthundi. 
