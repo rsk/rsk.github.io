@@ -6,6 +6,8 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 16 10:36 pm : "Nannu ikkade odilestara ? " ani mummy adigindi. Aa kshanam, chachipoyinantha pani ayipoyindi naku. Cant take this anymore. 
+
 
 - 2022 july 16 10:34 pm : To attain nothinng, To attain validation. To not to hurt anyone is impossible.
 - 2022 july 16 10:33 pm : Evaru evariki help cheyyaleru life lo . When you are doomed to get destroyed. When you are sensitive, nobody can save you. 
