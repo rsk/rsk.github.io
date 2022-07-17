@@ -6,6 +6,9 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 16 10:38 pm : Nenu rasina katha lo oka persoin contacts anni scroll chesthu untundi... Evaritho ayina matladadam ani. 
+But, okkalla deggara a scroll aagadu. Same state lo unna ippudu. Na mind lo unnadi chepthay vini artham cheskune varu untara. Just on the listening end. 
+
 - 2022 july 16 10:36 pm : "Nannu ikkade odilestara ? " ani mummy adigindi. Aa kshanam, chachipoyinantha pani ayipoyindi naku. Cant take this anymore. 
 
 
