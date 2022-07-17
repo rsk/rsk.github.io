@@ -6,6 +6,10 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 16 10:28 pm : This world is too complicated to understand. Can't afford to be hurt and cant hurt anyone. Its a double sided sword. 
+Funny isnt it. Ea principles/ethics ayithe correct ga follow avvali anukuntunnano avve dati life gaduputhunna anipisthundi. 
+Ee dikkumalana feelings , Dikkumalina life.
+
 - 2022 july 16 10:25 pm : Na child, telugutunakalu page. Telugu language preservation effort emavthundo ani badha ga undi. I can do wonders with with. Lots of ideas and lots of potential with the way its going right now. 
 
 - 2022 july 16 10:22 pm : indake mummy tho call ayindi, everything changed in a spilt second. I cannot see her suffer. 
