@@ -6,6 +6,8 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 16 10:25 pm : Na child, telugutunakalu page. Telugu language preservation effort emavthundo ani badha ga undi. I can do wonders with with. Lots of ideas and lots of potential with the way its going right now. 
+
 - 2022 july 16 10:22 pm : indake mummy tho call ayindi, everything changed in a spilt second. I cannot see her suffer. 
 Naku em cheyalo artham kavatam ledu. Waves of depression malli osthundi. Evevo promiselu chesesanu. 8 months lo anni solve chesta ani. Either problems solve chestanu. Leka nenu undanu emo anipisthundi.
 
