@@ -6,6 +6,12 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 16 10:22 pm : indake mummy tho call ayindi, everything changed in a spilt second. I cannot see her suffer. 
+Naku em cheyalo artham kavatam ledu. Waves of depression malli osthundi. Evevo promiselu chesesanu. 8 months lo anni solve chesta ani. Either problems solve chestanu. Leka nenu undanu emo anipisthundi.
+
+- 2022 july 16 evening: Went to a brazil fest today to divert my mind. later a movie.
+
+- 2022 july 15 evening 4pm around: Evening nandigrama rajyam complete chesanu. online review kuda uploaded. Chala manchi response ochindi instagram lo. That's only thing that gives me good vibes. Its like aa switch on cheyagane, lokam marchipoyi pani chesthunnanu.  
 
 - 2022 ejuly 14 8:53 pm: Meetup group. Bowling with friends and strangers its been a while. Man i suck at bowling. 
 
