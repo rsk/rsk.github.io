@@ -16,6 +16,8 @@ Constantly seeking attention and approval from others .
 There are only three relationships in life mother, brother, father, 
 Constantly guilt of not fulfilling the expectations. 
 Noone to share. 
+Not relavant or important in anyones life. 
+Successfully destroyed life as a person without personality and opinion
 
 - 2022 july 16 10:38 pm : Nenu rasina katha lo oka persoin contacts anni scroll chesthu untundi... Evaritho ayina matladadam ani. 
 But, okkalla deggara a scroll aagadu. Same state lo unna ippudu. Na mind lo unnadi chepthay vini artham cheskune varu untara. Just on the listening end. 
