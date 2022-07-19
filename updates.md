@@ -6,8 +6,9 @@ permalink: /updates/
 
 
 ### This is my public diary 
-
-- 2022 july 18: 12:03 am destruction
+- 2022 july 19 4: 23 PM super conflicted with things happening. Need to address it. 
+Entidi eado depression diary laga tayaru ayipothundi.
+- 2022 july 18: 12:03 
 Cant pretend anymore 
 Cant take care of mom 
 Cant be a brother 
