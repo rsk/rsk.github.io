@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 20 7:25 PM redefining self minute by minute, hour by hour, day by day. When "me" is no longer invalid.
 - 2022 july 19 4: 23 PM super conflicted with things happening. Need to address it. 
 Entidi eado depression diary laga tayaru ayipothundi.
 - 2022 july 18: 12:03 
