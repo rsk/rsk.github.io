@@ -6,6 +6,7 @@ permalink: /updates/
 
 
 ### This is my public diary 
+- 2022 july 27 9 am: Chapter 3 and chapter 4 of PVPIE: novel done in English. Its a pleasing to see story evolve infornt of me.
 - 2022 july 24 9 pm past couple of days nundi life turmoil lo padipoyindi ... surprisingly assal panic avvaledu. Last two days lo airbnb khali cheyyamannaru. 
   Last minute varku illu dorkaledu. Dorikina illu kuda bagaledu. Bedbugs and wierd environment. Looking for another house now. 
   Ivala mottam veray illu chudatam nachatam almost finalize cheyatam jarigayi. Inchuminchu oka 20 km thirigi unta
