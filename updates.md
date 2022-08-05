@@ -6,7 +6,9 @@ permalink: /updates/
 
 
 ### This is my public diary 
-- 2022 august 5th: am loosing control of my finances. I dont know. Everything is out of control am just going with the flow. 
+- 2022 august 5th 1247 pm : completed haha huhu book revisting the memories with dad.
+
+- 2022 august 5th 10 am: am loosing control of my finances. I dont know. Everything is out of control am just going with the flow. 
 - 2022 july 27 9 am: Chapter 3 and chapter 4 of PVPIE: novel done in English. Its a pleasing to see story evolve infornt of me.
 - 2022 july 24 9 pm past couple of days nundi life turmoil lo padipoyindi ... surprisingly assal panic avvaledu. Last two days lo airbnb khali cheyyamannaru. 
   Last minute varku illu dorkaledu. Dorikina illu kuda bagaledu. Bedbugs and wierd environment. Looking for another house now. 
