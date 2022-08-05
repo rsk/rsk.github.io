@@ -35,6 +35,19 @@ This page is dedicated to all books I am currently reading.
     <th>Author</th>
     <th>Status</th>
   </tr>
+  
+  <tr>
+    <td> Asuran </td>
+    <td>English </td>
+    <td>Anand neelankantan </td>
+    <td> Reading </td>
+  </tr>
+  <tr>
+    <td> haha huhu  </td>
+    <td>telugu </td>
+    <td>Viswanatha satyanarayana  </td>
+    <td> Completed</td>
+  </tr>
   <tr>
     <td> Circe  </td>
     <td>English </td>
@@ -45,13 +58,13 @@ This page is dedicated to all books I am currently reading.
     <td> Chantabbayi </td>
     <td> Telugu </td>
     <td> Malladi venkata krishna murthy </td>
-    <td> reading </td>
+    <td> completed </td>
   </tr>
   <tr>
     <td> Nadigrama rajyam </td>
     <td> Telugu </td>
     <td> Viswanatha satyanarayana </td>
-    <td> reading </td>
+    <td> completed </td>
   </tr>
   <tr>
     <td> Song of Achilles  </td>
