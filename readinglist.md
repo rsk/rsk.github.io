@@ -102,7 +102,12 @@ This page is dedicated to all books I am currently reading.
     <td>విశ్వనాథ సత్యనారాయణ  </td>
     <td>completed</td>
   </tr>
-
+  <tr>
+    <td>artha ratri</td>
+    <td>Telugu</td>
+    <td>Kanakamedala</td>
+    <td>completed</td>
+  </tr>
   
   
 </table>
